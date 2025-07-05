@@ -9,7 +9,7 @@ Fetches real-time weather data using OpenWeatherMap API.
 - Responsive and styled interface
 
 ## 🔗 Live Preview
-[Click to view on GitHub Pages](https://YOUR_USERNAME.github.io/weather-app/)
+[Click to view on GitHub Pages](https://bishow03.github.io/weather-app/)
 
 ## 📦 Tech Stack
 - HTML
@@ -23,6 +23,6 @@ Fetches real-time weather data using OpenWeatherMap API.
 3. Enter city name and click “Get Weather”
 
 ## 🧪 Example Cities
-- Kathmandu
-- London
+- Kathmandu : np
+- London : uk
 - Tokyo
