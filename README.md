@@ -13,7 +13,7 @@ Fetches real-time weather data using the OpenWeatherMap API.
 ---
 
 ## 🔗 Live Preview
-[🌐 Click to view on GitHub Pages](https://bishow03.github.io/weather-app/)
+[🌐 Click to view](https://bishow03.github.io/weather-app/)
 
 ---
 
